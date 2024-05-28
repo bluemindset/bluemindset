@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefanos Ioannou</h1>
-<h3 align="center">A developer from Cyprus</h3>
+<h3 align="center">A software engineer from Cyprus</h3>
 
 - 🔭 I’m currently working on **Thalia**
 
