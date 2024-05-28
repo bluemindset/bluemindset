@@ -7,10 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [codebyte.cy](codebyte.cy)
 
-- 📝 I regularly write articles on [codebyte.cy/articles](codebyte.cy/articles)
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **stefanos@codebyte.cy**
 
 
