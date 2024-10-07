@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Stefanos Ioannou</h1>
-<h3 align="center">A software engineer from Cyprus</h3>
+Passionate about building tools that streamline and enhance business processes.
+I'm primarily focused on Python and modern web frameworks like React, but I also have a background in High-Performance Computing (HPC) and AI. 
+Always eager to explore new challenges and innovative solutions.
 
-- 👨‍💻 All of my projects are available at [codebyte.cy](codebyte.cy)
+Projects are available at [codebyte.cy](codebyte.cy)
 
-- 📫 How to reach me **stefanos@codebyte.cy**
+**stefanos@codebyte.cy**
