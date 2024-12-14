@@ -1,21 +1,12 @@
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bluemindset&count_private=false&show_icons=true" alt="bluemindset's github stats" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemindset&layout=compact&langs_count=6" />
-</a>
-
-<!--
-[![bluemindset's github stats](https://github-readme-stats.vercel.app/api?username=bluemindset&include_all_commits=true&show_icons=true)](https://github.com/bluemindset)
+![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluemindset&show_icons=true&theme=transparent&text_color=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluemindset&layout=compact)<a href="https://github.com/bluemindset/github-readme-stats">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluemindset&layout=compact&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 <p>Passionate about building tools that streamline and enhance business processes.<br>
-I'm primarily focused on Python and modern web frameworks like React, but I also have a background in High-Performance Computing (HPC) and some AI.</p>
+I'm primarily focused on writing effective Go. </p>
 
 Projects are available at [codebyte.cy](https://codebyte.cy)
 
